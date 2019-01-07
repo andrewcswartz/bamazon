@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-shopping-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcswartz/bamazon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewcswartz/bamazon"
+  },
+  "homepage": "https://github.com/andrewcswartz/bamazon",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
